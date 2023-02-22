@@ -4,16 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/8de658f206.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="index.css">
     <title>TO-DO LIST</title>
 </head>
 <body>
-    <div class="main-panel">
-        <h1 class="list-title">Today's To Do</h1>
-        <input class="add-input" type="text" placeholder="Add to your list">
-        <ul id="todo-list">
-  
-        </ul>
+    <div class="container">
+        <div id="newtask">
+            <h1 class="heading">Today's To Do</h1>
+            <input type="text" placeholder="Add to your list...">
+            <button id="push">Add</button>
+        </div>
+        <div id="tasks"></div>
         <button class="clear-btn" type="button" name="button">Clear all completed</button>
-      </div>
+    </div>
+    
+      <script src="index.js"></script>
 </body>
 </html>
