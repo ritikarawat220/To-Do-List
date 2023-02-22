@@ -5,8 +5,9 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "js-linter": "npx eslint . --fix",
+    "css-linter": "npx stylelint \"**/*.{css,scss}\" --fix",
     "start": "webpack serve --open",
-    "dev": "webpack --mode development",
     "build": "webpack"
   },
   "repository": {
