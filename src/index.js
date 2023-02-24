@@ -1,34 +1,21 @@
+import ToDo from "./toDo";
+import { add, deleteAllCompleted, populateList } from "./todoStatus.js";
 import "./index.css";
 
-const tasks = [
-    {
-      index: 1,
-      description: "structure todo list",
-      completed: false,
-    },
-    {
-      index: 2,
-      description: "add task todo list",
-      completed: false,
-    },
-    {
-      index: 3,
-      description: "remove todo list",
-      completed: false,
-    },
-  ];
 
-  function populateList() {
-    const todoList = document.getElementById("todo-list");
-  
-    tasks.forEach((item) => {
-      const listItem = document.createElement("li");
-      listItem.innerHTML = `
-      <input class="checkbox" type="checkbox" name="" value="">
-      <span>${item.description}</span>
-      `;
-      todoList.appendChild(listItem);
-    });
-  }
-  
-  populateList();
+// Window load
+const list = JSON.parse(localStorage.getItem("todoList"));
+if (list) {
+  list.forEach((item) => new ToDo(item.description, item.complete));
+}
+
+// Add
+const addInput = document.getElementById("add-input");
+addInput.addEventListener("keydown", add);
+
+// Delete all completed
+const clearButton = document.getElementById("clear-btn");
+clearButton.addEventListener("click", deleteAllCompleted);
+
+// Populate UI
+populateList();
