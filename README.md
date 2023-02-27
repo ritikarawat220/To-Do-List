@@ -5,7 +5,7 @@
   <td style="border: 1px solid black;"><img src="src/ss-todo-list.png" alt="To-Do-List" /></td>
   </table>
 
-> A todo list app in which the user can add new tasks, edit, complete or delete them. The user can also clear all the completed tasks.
+ A todo list app in which the user can add new tasks, edit, complete or delete them. The user can also clear all the completed tasks.
 
 ## Requirements
 
