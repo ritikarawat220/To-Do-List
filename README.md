@@ -50,7 +50,7 @@ To-do Application is a tool that helps to organize your day. It simply lists the
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-Coming soon ...
+https://ritikarawat220.github.io/To-Do-list/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
