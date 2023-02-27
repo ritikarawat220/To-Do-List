@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RITIKARAWAT220/TO-DO-LIST.git"
+    "url": "git+https://github.com/RITIKARAWAT220/TO-DO LIST.git"
   },
   "keywords": [],
   "author": "",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/ritikarawat220/To-Do-list/issues"
   },
-  "homepage": "http://RITIKARAWAT220.github.io/TO-DO-LIST",
+  "homepage": "http://RITIKARAWAT220.github.io/TO-DO LIST",
   "devDependencies": {
     "@babel/eslint-parser": "^7.19.1",
     "babel-eslint": "^10.1.0",
