@@ -1,142 +1,49 @@
-# To-Do-list
-<!-- TABLE OF CONTENTS -->
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# 📗 Table of Contents
+# To-Do list
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+> A todo list app in which the user can add new tasks, edit, complete or delete them. The user can also clear all the completed tasks.
 
-<!-- PROJECT DESCRIPTION -->
+## Requirements
 
-# 📖 [TODO App] <a name="about-project"></a>
+Build a Todo list using:
 
-To-do Application is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Webpack
+- Linters (Lighthouse, Webhint, Stylelint, Eslint)
 
-## 🛠 Built With <a name="built-with"></a>
+## Built With
 
-### Tech Stack <a name="tech-stack"></a>
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Webpack
+- Linters (Lighthouse, Webhint, Stylelint, Eslint)
 
-- **Html 5**
-- **CSS 3**
-- **Webpack 5**
+## Live Demo
 
-<!-- Features -->
+Check **Live Demo** [here.](https://ritikarawat220.github.io/To-Do-list/)
 
-### Key Features <a name="key-features"></a>
+## Getting Started
 
-- **Add Todo**
-- **Todo List**
-- **Clear Completed Todos**
-- **Refresh App**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-Coming soon ...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- A web browser (like Google Chrome, Opera...).
+- A code editor (like Atom, VScode...).
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-```sh
-  cd my-folder
-  git clone git@github.com/ritikarawat220/To-Do-list.git
-```
-
--
-
-### Install
-
-Install this project with:
-
-Example command:
-
-```sh
-  cd my-project
-  npm install
-```
-
--
-
-### Usage
-
-To run the project, execute the following command:
-
-```sh
-  npm run start
-```
-
--
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+To setup the webpage locally: click on "**Code**" (dropdown list) then "**Download ZIP**".
 
 ### Deployment
 
-You can deploy this project using:
+To run the project open the downloaded folder (after extraction) then run the "**index.html**" file in your browser.
 
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
+## Authors
 
 👤 **Ritika Rawat**
 
@@ -144,51 +51,18 @@ Example:
 - Twitter: [@ritikarawat22](https://twitter.com/Ritikarawat22)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rawatritika/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **Add Todo**
-- [ ] **Remove Todo**
-- [ ] **Mark Todo as complete**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+## Show your support
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Give a ⭐️ if you like this project!
 
-<!-- SUPPORT -->
+## Acknowledgments
 
-## ⭐️ Show your support <a name="support"></a>
+- Hat tip to code reviewers and to everyone who reviewed the project and made suggestions.
 
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
-I would like to thank (Valentino Gagliardi)['https://www.valentinog.com/blog/webpack/'] for his concise guide to getting started with webpack 5
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
