@@ -70,11 +70,6 @@ export function populateList() {
       // Update UI
       populateList();
     });
-
-    if (item.complete) {
-      checkbox.checked = true;
-      text.classList = "complete";
-    }
   });
 }
 
