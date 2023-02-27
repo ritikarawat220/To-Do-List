@@ -6,6 +6,13 @@ body {
   font-family: sans-serif;
   font-size: 15px;
   font-weight: normal;
+  background: linear-gradient(135deg, #5324c3, #ff00b1);
+}
+
+h1 {
+  color: #fff;
+  background-color: black;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
 }
 
 ul {
@@ -22,7 +29,7 @@ li {
   max-width: 75%;
   margin: auto;
   display: grid;
-  box-shadow: 0 0 10px #888;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
 }
 
 .list-title {
@@ -67,6 +74,7 @@ li {
 .item-container {
   justify-content: space-between;
   gap: 5px;
+  background-color: gainsboro;
 }
 
 .item-container span,
