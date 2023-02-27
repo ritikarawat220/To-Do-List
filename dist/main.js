@@ -149,9 +149,10 @@ eval("module.exports = __webpack_require__.p + \"aa0a742c736cf9eb8a1e.png\";\n\n
 
 /***/ })
 
+
 },
 /******/ __webpack_require__ => { // webpackRuntimeModules
-/******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+/******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId));
 /******/ var __webpack_exports__ = (__webpack_exec__("./src/index.js"), __webpack_exec__("./src/toDo.js"), __webpack_exec__("./src/todoStatus.js"));
 /******/ }
 ]);
