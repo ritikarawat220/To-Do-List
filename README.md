@@ -30,6 +30,7 @@ Check **Live Demo** [here.](https://ritikarawat220.github.io/To-Do-list/)
 
 To get a local copy up and running follow these simple example steps.
 
+
 ### Prerequisites
 
 - A web browser (like Google Chrome, Opera...).
@@ -65,4 +66,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
+<<<<<<< HEAD
 This project is [MIT](./LICENSE) licensed.
+
