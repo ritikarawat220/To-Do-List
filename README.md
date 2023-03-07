@@ -27,7 +27,7 @@ Build a Todo list using:
 
 ## Live Demo
 
-Check **Live Demo** [here.](https://ritikarawat220.github.io/To-Do-list/)
+Check **Live Demo** [here.](https://ritikarawat220.github.io/To-Do-List/)
 
 ## Getting Started
 
