@@ -43,6 +43,15 @@ To get a local copy up and running follow these simple example steps.
 
 To setup the webpage locally: click on "**Code**" (dropdown list) then "**Download ZIP**".
 
+### Install
+
+Install this project with:
+
+- npm install
+- npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+- npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
+
+
 ### Deployment
 
 To run the project open the downloaded folder (after extraction) then run the "**index.html**" file in your browser.
